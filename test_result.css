@@ -1,0 +1,21 @@
+.results-container {
+  max-width: 800px;
+  margin: 60px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.results-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.results-container th,
+.results-container td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
